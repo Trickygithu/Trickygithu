@@ -1,0 +1,7 @@
+ git clone https://github.com/AI41n/Insta-hack
+
+cd Insta-hack
+
+chmod+x *
+
+python3 Insta-hack.py
